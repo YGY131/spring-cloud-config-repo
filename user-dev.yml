@@ -1,0 +1,5 @@
+server:
+  port: 8090
+user:
+  name: 张三-dev
+  age: 20
